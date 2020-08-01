@@ -1,0 +1,7 @@
+D:\ASP.net_EF\EFAppli4\EFAppli4\bin\EFAppli4.dll
+D:\ASP.net_EF\EFAppli4\EFAppli4\bin\EFAppli4.pdb
+D:\ASP.net_EF\EFAppli4\EFAppli4\bin\EntityFramework.dll
+D:\ASP.net_EF\EFAppli4\EFAppli4\bin\EntityFramework.xml
+D:\ASP.net_EF\EFAppli4\EFAppli4\obj\Debug\EFAppli4.csprojResolveAssemblyReference.cache
+D:\ASP.net_EF\EFAppli4\EFAppli4\obj\Debug\EFAppli4.dll
+D:\ASP.net_EF\EFAppli4\EFAppli4\obj\Debug\EFAppli4.pdb
